@@ -1,11 +1,11 @@
 ## Algorithm
 
-BFS
-DFS
-Binary Search Tree
-Hash - Anagram, Dict
-String
-Array
-Fibonacci
-Queue
-Stack
+- BFS
+- DFS
+- Binary Search Tree
+- Hash - Anagram, Dict
+- String
+- Array
+- Fibonacci
+- Queue
+- Stack
